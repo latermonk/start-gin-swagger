@@ -1,6 +1,11 @@
 #   golang gin 框架使用 swaggo
 
 
+
+*  swag init
+*  go run main.go
+
+
 * main.go
 
 ```
